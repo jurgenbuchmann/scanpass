@@ -1,0 +1,224 @@
+Uri: https://scanapp.org/
+File Name: C:\Users\jurge\Downloads\scanapp.org\index.htm
+Content Type: text/html
+
+Uri: https://scanapp.org/assets/main.css
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\main.css
+Content Type: text/css
+
+Uri: https://scanapp.org/assets/app.css
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\app.css
+Content Type: text/css
+
+Uri: https://github.com/mebjas/html5-qrcode
+File Name: C:\Users\jurge\Downloads\scanapp.org\mebjas\html5-qrcode.html
+Content Type: text/html
+
+Uri: https://blog.minhazav.dev/
+File Name: C:\Users\jurge\Downloads\scanapp.org\index-1.htm
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-2KZEP7DPYH
+File Name: C:\Users\jurge\Downloads\scanapp.org\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://scanapp.org/assets/svg/scanapp.svg
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\svg\scanapp.svg
+Content Type: image/svg+xml
+
+Uri: https://scanapp.org/assets/svg/share-svgrepo-com.svg
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\svg\share-svgrepo-com.svg
+Content Type: image/svg+xml
+
+Uri: https://scanapp.org/assets/svg/copy-svgrepo-com.svg
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\svg\copy-svgrepo-com.svg
+Content Type: image/svg+xml
+
+Uri: https://scanapp.org/assets/svg/coin-svgrepo-com.svg
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\svg\coin-svgrepo-com.svg
+Content Type: image/svg+xml
+
+Uri: https://scanapp.org/assets/js/html5-qrcode.min.js
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\js\html5-qrcode.min.js
+Content Type: application/javascript
+
+Uri: https://scanapp.org/assets/js/app.js
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-300.eot
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-300.eot?
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-300.woff2
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-300.woff2
+Content Type: font/woff2
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-300.woff
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-300.woff
+Content Type: font/woff
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-300.ttf
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-300.ttf
+Content Type: font/ttf
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-300.svg
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-300.svg
+Content Type: image/svg+xml
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-300italic.eot
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-300italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-300italic.eot?
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-300italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-300italic.woff2
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-300italic.woff2
+Content Type: font/woff2
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-300italic.woff
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-300italic.woff
+Content Type: font/woff
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-300italic.ttf
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-300italic.ttf
+Content Type: font/ttf
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-300italic.svg
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-300italic.svg
+Content Type: image/svg+xml
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-regular.eot
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-regular.eot?
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-regular.woff2
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-regular.woff2
+Content Type: font/woff2
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-regular.woff
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-regular.woff
+Content Type: font/woff
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-regular.ttf
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-regular.ttf
+Content Type: font/ttf
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-regular.svg
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-500.eot
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-500.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-500.eot?
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-500-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-500.woff2
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-500.woff2
+Content Type: font/woff2
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-500.woff
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-500.woff
+Content Type: font/woff
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-500.ttf
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-500.ttf
+Content Type: font/ttf
+
+Uri: https://scanapp.org/assets/fonts/ibm-plex-sans/ibm-plex-sans-v2-latin-500.svg
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ibm-plex-sans\ibm-plex-sans-v2-latin-500.svg
+Content Type: image/svg+xml
+
+Uri: https://scanapp.org/assets/fonts/ubuntu/ubuntu-v14-latin-300.eot
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ubuntu\ubuntu-v14-latin-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/ubuntu/ubuntu-v14-latin-300.eot?
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ubuntu\ubuntu-v14-latin-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/ubuntu/ubuntu-v14-latin-300.woff2
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ubuntu\ubuntu-v14-latin-300.woff2
+Content Type: font/woff2
+
+Uri: https://scanapp.org/assets/fonts/ubuntu/ubuntu-v14-latin-300.woff
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ubuntu\ubuntu-v14-latin-300.woff
+Content Type: font/woff
+
+Uri: https://scanapp.org/assets/fonts/ubuntu/ubuntu-v14-latin-300.ttf
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ubuntu\ubuntu-v14-latin-300.ttf
+Content Type: font/ttf
+
+Uri: https://scanapp.org/assets/fonts/ubuntu/ubuntu-v14-latin-300.svg
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ubuntu\ubuntu-v14-latin-300.svg
+Content Type: image/svg+xml
+
+Uri: https://scanapp.org/assets/fonts/ubuntu/ubuntu-v14-latin-regular.eot
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ubuntu\ubuntu-v14-latin-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/ubuntu/ubuntu-v14-latin-regular.eot?
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ubuntu\ubuntu-v14-latin-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/ubuntu/ubuntu-v14-latin-regular.woff2
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ubuntu\ubuntu-v14-latin-regular.woff2
+Content Type: font/woff2
+
+Uri: https://scanapp.org/assets/fonts/ubuntu/ubuntu-v14-latin-regular.woff
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ubuntu\ubuntu-v14-latin-regular.woff
+Content Type: font/woff
+
+Uri: https://scanapp.org/assets/fonts/ubuntu/ubuntu-v14-latin-regular.ttf
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ubuntu\ubuntu-v14-latin-regular.ttf
+Content Type: font/ttf
+
+Uri: https://scanapp.org/assets/fonts/ubuntu/ubuntu-v14-latin-regular.svg
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\ubuntu\ubuntu-v14-latin-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://scanapp.org/assets/fonts/hack/Hack-Regular-webfont.eot
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\hack\Hack-Regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/hack/Hack-Regular-webfont.eot?
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\hack\Hack-Regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://scanapp.org/assets/fonts/hack/Hack-Regular-webfont.woff
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\hack\Hack-Regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://scanapp.org/assets/fonts/hack/Hack-Regular-webfont.ttf
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\hack\Hack-Regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://scanapp.org/assets/fonts/hack/Hack-Regular-webfont.svg
+File Name: C:\Users\jurge\Downloads\scanapp.org\assets\fonts\hack\Hack-Regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://github.com/login?return_to=https:%2F%2Fgithub.com%2Fscanapp-org%2Fscanapp-org.github.io%2Fissues%2Fnew
+File Name: C:\Users\jurge\Downloads\scanapp.org\login.html
+Content Type: text/html
+
+Uri: https://blog.minhazav.dev/about//
+File Name: C:\Users\jurge\Downloads\scanapp.org\about\index.htm
+Content Type: text/html
+
+Uri: https://unpkg.com/eva-icons@1.1.3/eva.min.js
+File Name: C:\Users\jurge\Downloads\scanapp.org\eva-icons@1.1.3\eva.min.js
+Content Type: application/javascript
+
