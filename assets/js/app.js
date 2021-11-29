@@ -434,10 +434,9 @@ docReady(function() {
     });
 
     function onScanSuccess(decodedText, decodedResult) {
-        console.log(decodedText, decodedResult);
 
-/*        const API = 'https://api.tppvalidation.com/covid/key/demo'
-        const apiResponse = await fetch(
+        const API = 'https://api.tppvalidation.com/covid/key/demo'
+        fetch(
           API,
           {
             method: 'POST',
@@ -445,8 +444,11 @@ docReady(function() {
           }
         )
           
-          const ebaJson = await apiResponse.json()
-*/
+          const apiRes = response.json()
+
+          
+        console.log(decodedText, decodedResult, apiRes);
+        
         if (html5QrcodeScanner.getState() 
             !== Html5QrcodeScannerState.NOT_STARTED) {
             html5QrcodeScanner.pause();
