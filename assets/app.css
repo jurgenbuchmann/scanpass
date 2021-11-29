@@ -65,15 +65,11 @@ body {
         border: 1px solid black;
     }
 
-    /*
-    div.workspace-header {
-        display: none;
-    }
+    div.workspace-header {}
 
     div#no-result-container {
         display: none;
     }
-    */
 }
 
 @media(min-width: 600px) {
@@ -100,8 +96,7 @@ body {
     }
 
     #new-scanned-result {
-
-        height: 100%;
+        /* height: 100%; */
     }
 
     div.workspace-header {
@@ -118,15 +113,12 @@ body {
     }
 }
 
-/*
-#history {
-    display: none;
-}
+#history {}
 
 div#no-result-container.hidden {
     display: none;
 }
-*/
+
 #new-scanned-result {
     width: 100%;
     background: white;
@@ -312,6 +304,7 @@ table#result_table {
 }
 
 .banner:not(.visible) {
+    display: none;
     transform: translateY(-100%);
 }
 
