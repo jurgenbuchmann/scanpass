@@ -35,10 +35,10 @@ body {
 }
 
 #scanapp-top-container {
-    min-height:100vh;
-    display:flex;
-    flex-direction:column; 
-    justify-content:space-between;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 @media(max-width: 600px) {
@@ -46,7 +46,8 @@ body {
         display: block;
     }
 
-    #scanner, #workspace {
+    #scanner,
+    #workspace {
         display: 100px;
     }
 
@@ -65,6 +66,7 @@ body {
         border: 1px solid black;
     }
 
+    /*
     div.workspace-header {
         display: none;
     }
@@ -72,6 +74,7 @@ body {
     div#no-result-container {
         display: none;
     }
+    */
 }
 
 @media(min-width: 600px) {
@@ -82,6 +85,7 @@ body {
     #scanner {
         flex: 2
     }
+
     #workspace {
         flex: 1;
         border: 1px solid silver;
@@ -191,50 +195,50 @@ table#result_table {
 }
 
 /** Badge **/
-:root{
-  --color-primary: #214fe0;
-  --color-dark: #1d1f20;
-  --color-light: #f4f4f4;
-  --color-shade: #bbb;
-  
-  --badge-size: 150px;
-  
-  --lock-color: #fff;
-  --lock-width: 20px;
-  --lock-stroke: 2.5px;
-  
+:root {
+    --color-primary: #214fe0;
+    --color-dark: #1d1f20;
+    --color-light: #f4f4f4;
+    --color-shade: #bbb;
+
+    --badge-size: 150px;
+
+    --lock-color: #fff;
+    --lock-width: 20px;
+    --lock-stroke: 2.5px;
+
 }
 
-.badge-icon, 
-.badge-text{
-  padding: 5px 5px;
-  float:left;
-  -webkit-box-flex:1;
-  flex:1;
-  text-align: center;
-  font: normal small-caps normal 10px/1.5 Arial, Helvetica,   sans-serif;
-  text-transform: uppercase;
-  text-align: left;
+.badge-icon,
+.badge-text {
+    padding: 5px 5px;
+    float: left;
+    -webkit-box-flex: 1;
+    flex: 1;
+    text-align: center;
+    font: normal small-caps normal 10px/1.5 Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-align: left;
 }
 
-.badge{
-  display: inline-block;
-  color: var(--color-light);
-  /* min-width: var(--badge-size); */
-  border-radius: 5px;
-  overflow: hidden;
-  border: 1px solid silver;
+.badge {
+    display: inline-block;
+    color: var(--color-light);
+    /* min-width: var(--badge-size); */
+    border-radius: 5px;
+    overflow: hidden;
+    border: 1px solid silver;
 }
 
-.badge-icon{
-  background: silver;
-  max-width: calc( var(--badge-size) / 4);
-  color: black;
+.badge-icon {
+    background: silver;
+    max-width: calc(var(--badge-size) / 4);
+    color: black;
 }
 
-.badge-text{
-  color: var(--color-dark);
-  background-color: var(--color-light);
+.badge-text {
+    color: var(--color-dark);
+    background-color: var(--color-light);
 }
 
 /** Banner */
@@ -245,7 +249,7 @@ table#result_table {
     width: 100%;
     z-index: 5;
 }
-  
+
 .banner {
     color: white;
     font-weight: 700;
@@ -254,10 +258,12 @@ table#result_table {
     flex-direction: row;
     align-items: center;
 }
+
 .banner .banner-message {
     flex: 1;
     padding: 0 2rem;
 }
+
 .banner .banner-close {
     display: flex;
     align-items: center;
@@ -267,28 +273,35 @@ table#result_table {
     cursor: pointer;
     transition: background 0.3s;
 }
+
 .banner .banner-close:hover {
     background: rgba(0, 0, 0, 0.12);
 }
-  
+
 .banner.success {
     background: #10c15c;
 }
+
 .banner.success::after {
     background: #10c15c;
 }
+
 .banner.error {
     background: #ed1c24;
 }
+
 .banner.error::after {
     background: #ed1c24;
 }
+
 .banner.info {
     background: #0b22e2;
 }
+
 .banner.info::after {
     background: #0b22e2;
-}  
+}
+
 .banner::after {
     content: "";
     position: absolute;
@@ -297,12 +310,12 @@ table#result_table {
     bottom: 100%;
     left: 0;
 }
-  
+
 .banner:not(.visible) {
     display: none;
     transform: translateY(-100%);
 }
-  
+
 .banner.visible {
     box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.12);
     animation-name: banner-in;
@@ -315,15 +328,18 @@ table#result_table {
 
 @keyframes banner-in {
     0% {
-      transform: translateY(-100%);
+        transform: translateY(-100%);
     }
+
     50% {
-      transform: translateY(10%);
+        transform: translateY(10%);
     }
+
     100% {
-      transform: translateY(0);
+        transform: translateY(0);
     }
 }
+
 .show-banner {
     appearance: none;
     background: #ededed;
