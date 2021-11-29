@@ -90,6 +90,7 @@ function shareResult(decodedText, decodedResultType) {
 //#endregion
 
 //#region TYPE UI
+/*
 function createLinkTyeUi(parentElem, decodedText, type) {
     var link = document.createElement("a");
     link.href = decodedText;
@@ -205,6 +206,7 @@ function detectType(decodedText) {
     return TYPE_TEXT;
 }
 //#endregion
+*/
 
 //#region Actions
 function copyToClipboard(decodedText) {
