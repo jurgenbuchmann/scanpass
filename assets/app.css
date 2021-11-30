@@ -63,6 +63,7 @@ button {
     }
 
     #new-scanned-result {
+        position: relative;
         top: calc(20%);
         border-radius: 30px 30px 0px 0px;
         height: calc(85%);
@@ -105,6 +106,9 @@ button {
 
     #new-scanned-result {
         /* height: 100%; */
+        visibility: show;
+        opacity: 1;
+        transition: visibility 0s, opacity 0.5s linear;
     }
 
     div.workspace-header {
