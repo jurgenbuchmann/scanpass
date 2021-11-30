@@ -136,9 +136,11 @@ div#no-result-container.hidden {
     text-align: center;
     overflow-x: hidden;
     overflow-y: scroll;
-    /* visibility: hidden; */
-    opacity: 1;
-    transition: visibility 0s, opacity 0.5s linear;
+
+}
+
+div#new-scanned-result.hidden {
+    display: none;
 }
 
 div#new-scanned-result .header {
