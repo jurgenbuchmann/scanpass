@@ -1,7 +1,7 @@
 body {
     padding: 0px;
     margin: 0px;
-    background: white;
+    background: black;
     font-family: roboto;
     overflow-x: hidden;
 }
@@ -44,7 +44,6 @@ body {
 @media(max-width: 600px) {
     #scanapp-container {
         display: block;
-        position: fixed;
     }
 
     #scanner,
@@ -59,20 +58,25 @@ body {
     }
 
     #new-scanned-result {
-        display: none;
+        /* display: none; */
         position: fixed;
-        top: calc(25%);
+        top: calc(20%);
         border-radius: 30px 30px 0px 0px;
-        height: calc(75%);
+        height: calc(85%);
         border: 1px solid black;
     }
 
     div.workspace-header {
-        display: none;
+        /*    display: none; */
     }
 
     div#no-result-container {
-        display: none;
+        /* display: none; */
+        /* visibility: visible; */
+        /* opacity: 1; */
+        visibility: hidden;
+        opacity: 0;
+        transition: visibility 0s, opacity 0.5s linear;
     }
 }
 
@@ -128,10 +132,13 @@ div#no-result-container.hidden {
 
 #new-scanned-result {
     width: 100%;
-    background: white;
+    background: #9eae;
     text-align: center;
     overflow-x: hidden;
     overflow-y: scroll;
+    /* visibility: hidden; */
+    opacity: 1;
+    transition: visibility 0s, opacity 0.5s linear;
 }
 
 div#new-scanned-result .header {
