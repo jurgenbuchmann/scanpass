@@ -155,8 +155,7 @@ div#new-scanned-result .header {
 div#new-scanned-result .image {
     display: block;
     width: 200px;
-    height: 100px;
-    border: 1px solid #00000040;
+    height: 200px;
     margin: auto;
     background: silver;
     margin-bottom: 15px;
