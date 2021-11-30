@@ -44,6 +44,7 @@ body {
 @media(max-width: 600px) {
     #scanapp-container {
         display: block;
+        position: fixed;
     }
 
     #scanner,
